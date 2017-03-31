@@ -1,0 +1,64 @@
+body {
+	background-color: #E9EBF1;
+}
+
+h1,h2, header, footer {
+    color: #333333;
+ 	text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+div {
+	width: 800px;
+	text-align: center;
+	margin: 25px auto;
+	border: 25px solid; 
+}
+
+table{
+	width: 100%;
+}
+
+p, h3, table {
+	color: white;
+	
+    font-family: 'Open Sans', sans-serif;
+}
+#intro img{
+	width: 50%;
+	height: 50%;
+}
+
+#intro{
+	border-color: #E9EBF1;
+}
+
+#child{
+	background-color: #72CCD5;
+	border-color: #72CCD5;
+}
+
+#teenager{
+	background-color: #C987B7;
+	border-color: #C987B7;
+}
+
+#adult{
+	background-color: #A8CCEE;
+	border-color: #A8CCEE;
+}
+
+td img{
+	width: 233px;
+	height: 346px;
+}
+
+i {
+	padding: 20px;
+}
+
+a:hover {
+    color: #333333;
+}
+
+
